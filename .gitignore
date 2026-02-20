@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Simulation state files (machine specific, should not be shared)
+current_day.txt
+sim_state.json
+
+# Environment
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
