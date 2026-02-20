@@ -118,3 +118,12 @@ See `reports/queries.sql` for pre-built queries covering:
 The continuous runner is designed to run headlessly on a Raspberry Pi. Tested target hardware is Raspberry Pi 2 Model B (1GB RAM) with a 32GB SD card running Raspberry Pi OS Lite.
 
 To connect to the OLAP database remotely from another machine on the same network, use the Pi's local IP address instead of `localhost` in your database client.
+
+## Author
+
+**Hesham**
+- Portfolio: https://www.heshamrashid.org/
+- LinkedIn: https://www.linkedin.com/in/hesham-rashid/ 
+- Email: h.f.rashid@gmail.com
+
+Master's in AI and Business Analytics - University of South Florida
