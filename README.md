@@ -113,6 +113,10 @@ See `reports/queries.sql` for pre-built queries covering:
 - Category trends across days
 - Slowest moving products
 
+## Demo with Data
+
+Link to a demo that uses the data generated from the simulation can be seen at this repo: https://github.com/hrashid13/apache-ignite-grocery-demo 
+
 ## Raspberry Pi Deployment
 
 The continuous runner is designed to run headlessly on a Raspberry Pi. Tested target hardware is Raspberry Pi 2 Model B (1GB RAM) with a 32GB SD card running Raspberry Pi OS Lite.
