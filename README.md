@@ -2,6 +2,14 @@
 
 A self-running grocery store simulation that demonstrates a full OLTP to OLAP data pipeline. The simulation generates realistic transactions throughout a store day, migrates the data to an analytical database at end of day, and includes a live web feed showing transactions as they happen.
 
+## Projects
+
+The data from this simulation has been used in the following projects:
+
+Apache Ignite Demo: https://github.com/hrashid13/apache-ignite-grocery-demo
+
+Databricks Demo: https://github.com/hrashid13/Databricks-Grocery-Sim
+
 ## Architecture
 
 - **OLTP Database** (PostgreSQL) - Handles live transactional data. Resets each simulated day.
