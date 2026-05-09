@@ -17,4 +17,7 @@ sim_state.json
 # Mac
 .DS_Store
 
-
+#Sample Data
+/data/
+data/
+.data/
