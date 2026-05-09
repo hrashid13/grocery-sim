@@ -21,3 +21,4 @@ sim_state.json
 /data/
 data/
 .data/
+grocery_olap.dump
