@@ -23,3 +23,8 @@ data/
 .data/
 grocery_olap.dump
 *.dump
+
+#venvs
+venv/
+.venv/
+.venv
